@@ -1,0 +1,26 @@
+[app] (name=fbrun)
+  [Position]	(CENTER)	{0 0}
+  [Layer]	{2}
+[end]
+[app] (name=guvcview) (class=guvcview)
+  [Dimensions]	{13% 21%}
+  [Position]	(UPPERLEFT)	{87% 79%}
+  [Deco]	{NONE}
+  [Layer]	{6}
+[end]
+[app] (name=tilix) (class=Tilix)
+  [Dimensions]	{50% 63%}
+  [Position]	(UPPERLEFT)	{26% 22%}
+[end]
+[app] (name=xpad) (class=xpad) (role=info-TWTUHZ)
+  [Dimensions]	{34% 36%}
+  [Position]	(UPPERLEFT)	{69% 53%}
+  [Deco]	{NORMAL}
+  [Layer]	{8}
+[end]
+[app] (name=xpad) (class=xpad) (role=info-EXTUHZ)
+  [Dimensions]	{25% 15%}
+  [Position]	(UPPERLEFT)	{78% 35%}
+  [Deco]	{NORMAL}
+  [Layer]	{8}
+[end]
