@@ -23,7 +23,7 @@ XF86AudioStop                :ExecCommand playerctl stop
 
 # open Mail reader
 Mod4 m :Exec thunderbird
-# exec xfce4-terminal
+# exec lxterminal
 Control Mod1 t :Exec xfce4-terminal --hide-menubar
 F12 :Exec xfce4-terminal --drop-down --hide-menubar
 # open Chromium browser
